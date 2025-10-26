@@ -8,7 +8,7 @@
 # AI-Powered Client Health Monitoring System
 A comprehensive SaaS customer success platform that uses AI to track client activity, analyze sentiment, predict churn risk, and generate actionable insights.
 
-## Demo Video Of Dashboard.
+## View Here.
 [🎥 Live Demo](https://v0-client-health-score-git-main-shaid-ts-projects.vercel.app/) 
 
 ## Features
